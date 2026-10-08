@@ -7,23 +7,19 @@ I'm a senior quality assurance professional with a background in financial syste
 ## What I like working on
 
 - **Test automation:** readable Playwright tests, reusable fixtures, and failure reports that help explain what happened.
-- **APIs and data:** exploring contracts, negative paths, SQL validation, and the places where systems meet.
-- **Quality beyond the happy path:** accessibility, unusual inputs, and the details that make software easier to trust.
+- **APIs and data:** exploring contracts, negative paths, SQL validation.
 - **Personal builds:** small tools, creative ideas, and projects that give me a reason to learn something new.
 
 ## Project notebook
 
-| Project | What I'm exploring |
+| Projects | What I'm exploring |
 | --- | --- |
 | [Playwright automation framework](https://github.com/ikoiv/playwright-automation-framework) | Page objects, isolated test data, API setup, and cross-browser testing |
 | [API testing suite](https://github.com/ikoiv/api-testing-suite) | CRUD workflows, authorization, response contracts, and negative cases |
-| [Financial systems QA](https://github.com/ikoiv/financial-systems-qa) | Money movement, reconciliation, and SQL checks using synthetic data |
 | [QA strategy case study](https://github.com/ikoiv/qa-strategy-case-study) | Risk-based planning, traceability, UAT, and release decisions in a fictional project |
 | [Customized clue sheet](https://github.com/ikoiv/clue-sheet-customized) | A personal project with a different kind of puzzle to solve |
 
 ## Tools I use
-
-JavaScript · TypeScript · Playwright · Python · SQL · Postman · Git · Jira/Xray · Azure DevOps
 
 **Certifications:** ISTQB CTFL · CTFL-AT · CT-AI
 
