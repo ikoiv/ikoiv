@@ -1,6 +1,6 @@
 # Purpose
 
-This is my GitHub, with a few personal projects, at-home practice.
+This is my GitHub, with a few personal projects, at-home practice, and fun things I've tried out.
 
 ## What I like working on
 
